@@ -39,3 +39,5 @@ Feel free to make any changes to the UpdateQuality method and add any new code a
 Just for clarification, an item can never have its Quality increase above 50, however "Sulfuras" is a legendary item and as such its Quality is 80 and it never alters.
 
 To get started, clone the code. The original repository for this Kata (in C#) can be found on NotMyself's GitHub. For programmers in other languages, Emily Bache has a repository with the starting code in many different programming languages. The latter repository's README also contains a useful explanation of Golden Master testing.
+
+ggs
