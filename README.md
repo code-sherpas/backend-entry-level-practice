@@ -21,5 +21,4 @@ npm run tests
 | perro          | Ha'DIbaH     |
 | gato           | mangHom      |
 | negro          | qIj          |
-| negro          | qIj          |
 | gato negro     | qIch         |
