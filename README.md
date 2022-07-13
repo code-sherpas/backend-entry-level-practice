@@ -11,3 +11,15 @@ npm install
 ```bash
 npm run tests
 ```
+
+## Some words to translate
+
+| Spanish        | Kinglon      |
+|:--------------:|:------------:|
+| hola           | nuqneH       |
+| adiós          | maj          |
+| perro          | Ha'DIbaH     |
+| gato           | mangHom      |
+| negro          | qIj          |
+| negro          | qIj          |
+| gato negro     | qIch         |
