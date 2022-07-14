@@ -87,3 +87,13 @@ git config user.email "johndoe@example.com"
 El proyecto usa [Jest](https://jestjs.io/es-ES/) como framework de testing.
 
 Los tests se ejecutan con `npm run tests`.
+
+## ¿Qué hemos conseguido?
+
+### Trunk Based development
+
+![Trunk Based development](images/trunk1c.png "Trunk Based development")
+
+### Continuous integration and Build automation
+
+![Continuous integration and Build automation](images/ci.jpg "Continuous integration and Build automation")
