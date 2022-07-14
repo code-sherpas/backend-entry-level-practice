@@ -1,4 +1,4 @@
-function toKinglon(spanish) {
+function toKlingon(spanish) {
     if(spanish == "hola") {
         return "nuqneH"
     } else if(spanish == "adiós") {
@@ -8,4 +8,4 @@ function toKinglon(spanish) {
     }
 }
 
-module.exports = toKinglon;
+module.exports = toKlingon;
