@@ -1,9 +1,5 @@
 # Git Materclass
 
-## Code Sherpas
-
-foto de code sherpas
-
 ## ¿Qué vamos a hacer hoy?
 
 Vamos a usar Git como lo hacen los mejores equipos de desarrollo en su día a día.
@@ -97,3 +93,14 @@ Los tests se ejecutan con `npm run tests`.
 ### Continuous integration and Build automation
 
 ![Continuous integration and Build automation](images/ci.jpg "Continuous integration and Build automation")
+
+## Code Sherpas
+
+![Trunk Based development](images/code-sherpas.png "Trunk Based development")
+
+### ¿Dónde puedes encontrarnos?
+
+- Twitter: **@codesherpas_bcn**
+- LinkedIn: **linkedin.com/company/code-sherpas**
+- Slack: **launchpass.com/code-sherpas**
+- YouTube: **Code Sherpas**
