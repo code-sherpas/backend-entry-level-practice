@@ -5,6 +5,8 @@ function toKlingon(spanish) {
         return "maj"
     } else if(spanish == "casa"){
         return "juH qach"
+    } else if(spanish == "porche"){
+        return "tor"
     } else {
         return ""
     }

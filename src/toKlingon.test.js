@@ -11,3 +11,7 @@ test('adiós', () => {
 test('casa', () => {
   expect(toKlingon("casa")).toBe("juH qach");
 });
+
+test('porche', () => {
+  expect(toKlingon("porche")).toBe("tor");
+});
