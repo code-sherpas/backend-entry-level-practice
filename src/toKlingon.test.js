@@ -7,3 +7,7 @@ test('hola', () => {
 test('adiós', () => {
   expect(toKlingon("adiós")).toBe("maj");
 });
+
+test('casa', () => {
+  expect(toKlingon("casa")).toBe("juH qach");
+});

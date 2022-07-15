@@ -3,6 +3,8 @@ function toKlingon(spanish) {
         return "nuqneH"
     } else if(spanish == "adiós") {
         return "maj"
+    } else if(spanish == "casa"){
+        return "juH qach"
     } else {
         return ""
     }
