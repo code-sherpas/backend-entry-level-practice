@@ -9,6 +9,8 @@ function toKlingon(spanish) {
         return "juH qach"
     } else if(spanish == "porche"){
         return "tor"
+    } else if(spanish == "calabaza"){
+        return "dIr"
     } else {
         return ""
     }
