@@ -25,8 +25,8 @@ function toKlingon(spanish) {
         return "nuqneH"
     } else if(spanish == "adiós") {
         return "maj"
-    } else {
-        return ""
+    } else { spanish == "perro"
+        return "Ha'DIbaH"
     }
 }
 
@@ -44,6 +44,9 @@ test('hola', () => {
 
 test('adiós', () => {
   expect(toKlingon("adiós")).toBe("maj");
+});
+test('perro', () => {
+  expect(toKlingon("perro")).toBe("Ha'DIbaH");
 });
 ```
 
